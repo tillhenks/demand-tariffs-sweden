@@ -47,3 +47,7 @@ pip install pandas matplotlib
 #### Consumption file
 The csv file that contains the values, make sure to match the filename as in the Python script
 
+### Usage
+With the files in place and Python 3 installed with the pre reqs above just issue:
+`python3 tariff-from-file.py`
+
